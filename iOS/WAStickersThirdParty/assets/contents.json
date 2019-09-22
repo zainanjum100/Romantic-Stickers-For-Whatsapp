@@ -1,0 +1,2138 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.StickerX.whatsappstickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Mast Hai Re",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "mast.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ma_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "ma_2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "ma_3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "ma_4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "ma_5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "ma_6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "ma_7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "ma_8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        },
+        {
+          "image_file": "ma_9.webp",
+          "emojis": ["ðŸ˜˜","ðŸª"]
+        },
+        {
+          "image_file": "ma_10.webp",
+          "emojis": ["ðŸ¤”","ðŸ˜"]
+        },
+        {
+          "image_file": "ma_11.webp",
+          "emojis": ["ðŸ˜±","ðŸ˜µ"]
+        },
+        {
+          "image_file": "ma_12.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜ "]
+        },
+        {
+          "image_file": "ma_13.webp",
+          "emojis": ["â“","ðŸ¤”"]
+        },
+        {
+          "image_file": "ma_14.webp",
+          "emojis": ["ðŸŒˆ","ðŸ˜œ"]
+        },
+        {
+          "image_file": "ma_15.webp",
+          "emojis": ["ðŸ’»","ðŸ˜©"]
+        },
+        {
+          "image_file": "ma_16.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜¤"]
+        },
+        {
+          "image_file": "ma_17.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜¨"]
+        }
+      ]
+    },{
+      "identifier": "2",
+      "name": "Relationship Goals Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "rel.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rel_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "rel_2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "rel_3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "rel_4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "rel_5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "rel_6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "rel_7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "rel_8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        },
+        {
+          "image_file": "rel_9.webp",
+          "emojis": ["ðŸ˜˜","ðŸª"]
+        },
+        {
+          "image_file": "rel_10.webp",
+          "emojis": ["ðŸ¤”","ðŸ˜"]
+        },
+        {
+          "image_file": "rel_11.webp",
+          "emojis": ["ðŸ˜±","ðŸ˜µ"]
+        },
+        {
+          "image_file": "rel_12.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜ "]
+        },
+        {
+          "image_file": "rel_13.webp",
+          "emojis": ["â“","ðŸ¤”"]
+        },
+        {
+          "image_file": "rel_14.webp",
+          "emojis": ["ðŸŒˆ","ðŸ˜œ"]
+        },
+        {
+          "image_file": "rel_15.webp",
+          "emojis": ["ðŸ’»","ðŸ˜©"]
+        },
+        {
+          "image_file": "rel_16.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜¤"]
+        }
+      ]
+    },{
+      "identifier": "3",
+      "name": "Happy Family Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "fam.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "fam_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "fam_2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "fam_3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "fam_4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "fam_5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "fam_6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "fam_7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "fam_8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        },
+        {
+          "image_file": "fam_9.webp",
+          "emojis": ["ðŸ˜˜","ðŸª"]
+        }
+      ]
+    },{
+      "identifier": "4",
+      "name": "Couples Picnic Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "jour.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "jour_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "jour_2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "jour_3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "jour_4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "jour_5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "jour_6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "jour_7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "jour_8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        }
+      ]
+    },{
+      "identifier": "5",
+      "name": "Sharing Gift Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "gif.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "gif_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "gif_2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "gif_3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "gif_4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "gif_5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "gif_6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "gif_7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "gif_8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        },
+        {
+          "image_file": "gif_9.webp",
+          "emojis": ["ðŸ˜˜","ðŸª"]
+        }
+      ]
+    },{
+      "identifier": "6",
+      "name": "Feelings (SAD/HAPPY)",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "facess.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "f_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "f_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "f_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "f_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "f_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_12.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_13.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_14.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_15.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f_16.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },{
+      "identifier": "7",
+      "name": "Husband Wife Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "wo.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "l_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "l_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "l_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "l_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "l_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "l_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "l_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "l_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "l_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "l_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "l_10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "l_11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "l_12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "l_13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "l_14.webp",
+          "emojis": ["💻","😩"]
+        }
+      ,
+        {
+          "image_file": "l_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "l_16.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "l_17.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "l_18.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "l_19.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "l_20.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },{
+      "identifier": "8",
+      "name": "Romantic Love Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "woo.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "lo_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "lo_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "lo_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "lo_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "lo_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "lo_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "lo_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "lo_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "lo_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "lo_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "lo_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "lo_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "lo_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "lo_14.webp",
+          "emojis": ["🌈","😜"]
+        }
+      ]
+    },{
+      "identifier": "9",
+      "name": "Couple Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "cou.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "love_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "love_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "love_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "love_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "love_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "love_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "love_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "love_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "love_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "love_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "love_10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "love_11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "love_12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "love_13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "love_14.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },{
+      "identifier": "10",
+      "name": "Heart Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "heart.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "heart_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "heart_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "heart_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "heart_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "heart_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "heart_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "heart_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "heart_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "heart_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "heart_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "heart_10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "heart_11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "heart_12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "heart_13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "heart_14.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "heart_15.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "heart_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "heart_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "heart_18.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "heart_19.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "heart_20.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "heart_21.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "heart_22.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+      "identifier": "11",
+      "name": "Kiss Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "kislip.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "kiss_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "kiss_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "kiss_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "kiss_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "kiss_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "kiss_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "kiss_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "kiss_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "kiss_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "kiss_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "kiss_10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "kiss_11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "kiss_12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "kiss_13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "kiss_14.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "kiss_15.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "kiss_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "kiss_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "kiss_18.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "kiss_19.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "kiss_20.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+      "identifier": "12",
+      "name": "Giants Smile Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "giants_smile.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "g_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "g_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "g_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "g_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "g_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "g_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "g_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "g_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "g_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "g_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "g_10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "g_11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "g_12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "g_13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "g_14.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "g_15.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "g_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "g_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "g_18.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+      "identifier": "13",
+      "name": "XoXo Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "xo.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "xoxo_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "xoxo_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "xoxo_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "xoxo_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "xoxo_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "xoxo_6.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "xoxo_7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "xoxo_8.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "xoxo_9.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "xoxo_10.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "xoxo_11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "xoxo_12.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },{
+      "identifier": "14",
+      "name": "English Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "lol.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "glo_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "glo_2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "glo_3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "glo_4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "glo_5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "glo_6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "glo_7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "glo_8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        },
+        {
+          "image_file": "glo_9.webp",
+          "emojis": ["ðŸ˜˜","ðŸª"]
+        },
+        {
+          "image_file": "glo_10.webp",
+          "emojis": ["ðŸ¤”","ðŸ˜"]
+        }
+      ]
+    },{
+      "identifier": "15",
+      "name": "Word Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "yeah.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "t_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "t_2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "t_3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "t_4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "t_5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "t_6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "t_7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "t_8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        },
+        {
+          "image_file": "t_9.webp",
+          "emojis": ["ðŸ˜˜","ðŸª"]
+        },
+        {
+          "image_file": "t_10.webp",
+          "emojis": ["ðŸ¤”","ðŸ˜"]
+        },
+        {
+          "image_file": "t_11.webp",
+          "emojis": ["ðŸ˜±","ðŸ˜µ"]
+        },
+        {
+          "image_file": "t_12.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜ "]
+        },
+        {
+          "image_file": "t_13.webp",
+          "emojis": ["â“","ðŸ¤”"]
+        },
+        {
+          "image_file": "t_14.webp",
+          "emojis": ["ðŸŒˆ","ðŸ˜œ"]
+        },
+        {
+          "image_file": "t_15.webp",
+          "emojis": ["ðŸ’»","ðŸ˜©"]
+        },
+        {
+          "image_file": "t_16.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜¤"]
+        },
+        {
+          "image_file": "t_17.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜¨"]
+        },
+        {
+          "image_file": "t_18.webp",
+          "emojis": ["ðŸ’»","ðŸŒƒ"]
+        },
+        {
+          "image_file": "t_19.webp",
+          "emojis": ["ðŸŽ‰","âœ¨"]
+        },
+        {
+          "image_file": "t_20.webp",
+          "emojis": ["ðŸ¤®","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "t_21.webp",
+          "emojis": ["ðŸ–","ðŸ™‹"]
+        },
+        {
+          "image_file": "t_22.webp",
+          "emojis": ["ðŸ–","ðŸ‘‹"]
+        }
+      ]
+    },{
+      "identifier": "16",
+      "name": "Cute Puppy Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "pup.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pup_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "pup_2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "pup_3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "pup_4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "pup_5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "pup_6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "pup_7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "pup_8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        },
+        {
+          "image_file": "pup_9.webp",
+          "emojis": ["ðŸ˜˜","ðŸª"]
+        },
+        {
+          "image_file": "pup_10.webp",
+          "emojis": ["ðŸ¤”","ðŸ˜"]
+        },
+        {
+          "image_file": "pup_11.webp",
+          "emojis": ["ðŸ˜±","ðŸ˜µ"]
+        },
+        {
+          "image_file": "pup_12.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜ "]
+        },
+        {
+          "image_file": "pup_13.webp",
+          "emojis": ["â“","ðŸ¤”"]
+        },
+        {
+          "image_file": "pup_14.webp",
+          "emojis": ["ðŸŒˆ","ðŸ˜œ"]
+        },
+        {
+          "image_file": "pup_15.webp",
+          "emojis": ["ðŸ’»","ðŸ˜©"]
+        },
+        {
+          "image_file": "pup_16.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜¤"]
+        },
+        {
+          "image_file": "pup_17.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜¨"]
+        },
+        {
+          "image_file": "pup_18.webp",
+          "emojis": ["ðŸ’»","ðŸŒƒ"]
+        },
+        {
+          "image_file": "pup_19.webp",
+          "emojis": ["ðŸŽ‰","âœ¨"]
+        },
+        {
+          "image_file": "pup_20.webp",
+          "emojis": ["ðŸ¤®","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "pup_21.webp",
+          "emojis": ["ðŸ–","ðŸ™‹"]
+        },
+        {
+          "image_file": "pup_22.webp",
+          "emojis": ["ðŸ–","ðŸ‘‹"]
+        },
+        {
+          "image_file": "pup_23.webp",
+          "emojis": ["ðŸµ","ðŸ˜Œ"]
+        },
+        {
+          "image_file": "pup_24.webp",
+          "emojis": ["ðŸ“±","ðŸ˜¦"]
+        },
+        {
+          "image_file": "pup_25.webp",
+          "emojis": ["ðŸ”‹","ðŸ˜µ"]
+        }
+      ]
+    },{
+      "identifier": "17",
+      "name": "Birthday Bash Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "bdy.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "b_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "b_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "b_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "b_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "b_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "b_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "b_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "b_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "b_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "b_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "b_9.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "b_10.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "b_11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "b_12.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "b_12.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "b_14.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "b_15.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "b_16.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "b_17.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "b_18.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "b_19.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "b_20.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "b_21.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "b_22.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "b_23.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "b_24.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "b_25.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "18",
+      "name": "Bubble Chat Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "bubble_chat.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bubble_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "bubble_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "bubble_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "bubble_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "bubble_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "bubble_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "bubble_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "bubble_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "bubble_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "bubble_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "bubble_9.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "bubble_10.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "bubble_11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "bubble_12.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "bubble_12.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "bubble_14.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "bubble_15.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "bubble_16.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "bubble_17.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "bubble_18.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "bubble_19.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "bubble_20.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "bubble_21.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "bubble_22.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "bubble_23.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "bubble_24.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "bubble_25.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "19",
+      "name": "Cat Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "ca.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "cat_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "cat_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "cat_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "cat_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "cat_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "cat_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "cat_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "cat_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "cat_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "cat_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "cat_9.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "cat_10.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "cat_11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "cat_12.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "cat_12.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "cat_14.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "cat_18.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "cat_16.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "cat_17.webp",
+          "emojis": ["🎉","✨"]
+        }
+      ]
+    },{
+      "identifier": "20",
+      "name": "Babies Dog Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "do.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "d_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "d_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "d_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "d_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "d_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "d_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "d_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "d_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "d_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "d_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "d_10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "d_11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "d_12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "d_13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "d_14.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "d_15.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "d_16.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "d_17.webp",
+          "emojis": ["💻","🌃"]
+        }
+      ]
+    },{
+      "identifier": "21",
+      "name": "Funky Monkey Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "mon.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "monkey_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "monkey_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "monkey_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "monkey_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "monkey_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "monkey_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "monkey_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "monkey_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "monkey_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "monkey_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "monkey_10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "monkey_11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "monkey_12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "monkey_13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "monkey_14.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "monkey_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "monkey_16.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "monkey_17.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "monkey_18.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },{
+      "identifier": "22",
+      "name": "Cute Panda Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "pan.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "panda_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "panda_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "panda_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "panda_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "panda_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "panda_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "panda_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "panda_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "panda_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "panda_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "panda_10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "panda_11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "panda_12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "panda_13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "panda_14.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "panda_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "panda_16.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "panda_17.webp",
+          "emojis": ["💻","😩"]
+        }
+      ]
+    },{
+      "identifier": "23",
+      "name": "Cute Kitty Stickers ",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "kites.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "k_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "k_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "k_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "k_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "k_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "k_6.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },{
+      "identifier": "24",
+      "name": "Shopping Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "sho.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "s_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "s_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "s_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "s_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "s_5.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },{
+      "identifier": "25",
+      "name": "Food Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "food.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "food_1.webp",
+          "emojis": ["â˜•","ðŸ™‚"]
+        },
+        {
+          "image_file": "food_2.webp",
+          "emojis": ["ðŸ˜„","ðŸ˜€"]
+        },
+        {
+          "image_file": "food_3.webp",
+          "emojis": ["ðŸ˜†","ðŸ˜‚"]
+        },
+        {
+          "image_file": "food_4.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜°"]
+        },
+        {
+          "image_file": "food_5.webp",
+          "emojis": ["ðŸ˜­","ðŸ’§"]
+        },
+        {
+          "image_file": "food_6.webp",
+          "emojis": ["ðŸ˜","â™¥"]
+        },
+        {
+          "image_file": "food_7.webp",
+          "emojis": ["ðŸ’”","ðŸ‘Ž"]
+        },
+        {
+          "image_file": "food_8.webp",
+          "emojis": ["ðŸ˜","ðŸ’‘"]
+        },
+        {
+          "image_file": "food_9.webp",
+          "emojis": ["ðŸ˜˜","ðŸª"]
+        },
+        {
+          "image_file": "food_10.webp",
+          "emojis": ["ðŸ¤”","ðŸ˜"]
+        },
+        {
+          "image_file": "food_11.webp",
+          "emojis": ["ðŸ˜±","ðŸ˜µ"]
+        },
+        {
+          "image_file": "food_12.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜ "]
+        },
+        {
+          "image_file": "food_13.webp",
+          "emojis": ["â“","ðŸ¤”"]
+        },
+        {
+          "image_file": "food_14.webp",
+          "emojis": ["ðŸŒˆ","ðŸ˜œ"]
+        },
+        {
+          "image_file": "food_15.webp",
+          "emojis": ["ðŸ’»","ðŸ˜©"]
+        },
+        {
+          "image_file": "food_16.webp",
+          "emojis": ["ðŸ˜¡","ðŸ˜¤"]
+        },
+        {
+          "image_file": "food_17.webp",
+          "emojis": ["ðŸ˜©","ðŸ˜¨"]
+        },
+        {
+          "image_file": "food_18.webp",
+          "emojis": ["ðŸ’»","ðŸŒƒ"]
+        },
+        {
+          "image_file": "food_19.webp",
+          "emojis": ["ðŸŽ‰","âœ¨"]
+        },
+        {
+          "image_file": "food_20.webp",
+          "emojis": ["ðŸ¤®","ðŸ‘Ž"]
+        }
+      ]
+    },{
+      "identifier": "26",
+      "name": "Fitness Stickers",
+      "publisher": "Stickers For Whatsapp",
+      "tray_image_file": "fttt.png",
+      "publisher_email":"Ehtiali00@gmail.com",
+      "publisher_website": "http://wapexp.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "fit_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "fit_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "fit_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "fit_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "fit_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "fit_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "fit_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "fit_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "fit_8.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "fit_9.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "fit_10.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "fit_11.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "fit_12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "fit_13.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "fit_14.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "fit_15.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+    "identifier": "27",
+    "name": "Christmas Stickers",
+    "publisher": "Stickers For Whatsapp",
+    "tray_image_file": "santa.png",
+    "publisher_email":"Ehtiali00@gmail.com",
+    "publisher_website": "http://wapexp.com/",
+    "privacy_policy_website": "",
+    "license_agreement_website": "",
+    "stickers": [
+      {
+        "image_file": "chi_1.webp",
+        "emojis": ["☕","🙂"]
+      },
+      {
+        "image_file": "chi_2.webp",
+        "emojis": ["😄","😀"]
+      },
+      {
+        "image_file": "chi_3.webp",
+        "emojis": ["😆","😂"]
+      },
+      {
+        "image_file": "chi_4.webp",
+        "emojis": ["😩","😰"]
+      },
+      {
+        "image_file": "chi_5.webp",
+        "emojis": ["😭","💧"]
+      },
+      {
+        "image_file": "chi_6.webp",
+        "emojis": ["😍","♥"]
+      },
+      {
+        "image_file": "chi_6.webp",
+        "emojis": ["💔","👎"]
+      },
+      {
+        "image_file": "chi_7.webp",
+        "emojis": ["😍","💑"]
+      },
+      {
+        "image_file": "chi_8.webp",
+        "emojis": ["😘","🍪"]
+      },
+      {
+        "image_file": "chi_9.webp",
+        "emojis": ["🤔","😐"]
+      },
+      {
+        "image_file": "chi_10.webp",
+        "emojis": ["😱","😵"]
+      },
+      {
+        "image_file": "chi_11.webp",
+        "emojis": ["😡","😠"]
+      },
+      {
+        "image_file": "chi_12.webp",
+        "emojis": ["❓","🤔"]
+      },
+      {
+        "image_file": "chi_13.webp",
+        "emojis": ["🌈","😜"]
+      },
+      {
+        "image_file": "chi_14.webp",
+        "emojis": ["💻","😩"]
+      },
+      {
+        "image_file": "chi_15.webp",
+        "emojis": ["😡","😤"]
+      },
+      {
+        "image_file": "chi_16.webp",
+        "emojis": ["😩","😨"]
+      },
+      {
+        "image_file": "chi_17.webp",
+        "emojis": ["💻","🌃"]
+      },
+      {
+        "image_file": "chi_18.webp",
+        "emojis": ["🎉","✨"]
+      },
+      {
+        "image_file": "chi_19.webp",
+        "emojis": ["🤮","👎"]
+      },
+      {
+        "image_file": "chi_20.webp",
+        "emojis": ["🖐","🙋"]
+      },
+      {
+        "image_file": "chi_21.webp",
+        "emojis": ["🖐","👋"]
+      },
+      {
+        "image_file": "chi_22.webp",
+        "emojis": ["🍵","😌"]
+      },
+      {
+        "image_file": "chi_23.webp",
+        "emojis": ["📱","😦"]
+      },
+      {
+        "image_file": "chi_24.webp",
+        "emojis": ["🔋","😵"]
+      },
+      {
+        "image_file": "chi_25.webp",
+        "emojis": ["🔋","😵"]
+      }
+    ]
+  }
+  ]
+
+}
