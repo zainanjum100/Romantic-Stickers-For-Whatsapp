@@ -48,9 +48,9 @@ class StickerPackViewController: UIViewController, UICollectionViewDataSource, U
 
         itemsPerRow = portraitOrientation ? portraitItems : landscapeItems
 
-        let infoButton: UIButton = UIButton(type: .infoLight)
-        infoButton.addTarget(self, action: #selector(infoPressed(button:)), for: .touchUpInside)
-        navigationItem.rightBarButtonItem = UIBarButtonItem(customView: infoButton)
+        //let infoButton: UIButton = UIButton(type: .infoLight)
+        //infoButton.addTarget(self, action: #selector(infoPressed(button:)), for: .touchUpInside)
+        //navigationItem.rightBarButtonItem = UIBarButtonItem(customView: infoButton)
 
         bottomGradientView.isUserInteractionEnabled = false
         bottomGradientView.translatesAutoresizingMaskIntoConstraints = false
